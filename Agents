@@ -1,0 +1,325 @@
+<p>&nbsp;</p>
+<div class="body-container">
+<h1 style="text-align: center;">Century 21 Broadhurst</h1>
+<hr />
+<h2>Meet the Team</h2>
+<div class="agents-realtors-wr"></div>
+</div>
+<p>
+<script type="text/javascript">
+	(function() {
+		var agents = [
+
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/maegan.png", 
+				agentLink:"/maegan-kovatch", 
+				agentFullName:"Maegan Kovatch"
+			},
+
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/New_Agent_Photos_for_website_(1).png", 
+				agentLink:"/mike-casper", 
+				agentFullName:"Mike Casper"
+			},
+
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/Mike_Gray_(2).png", 
+				agentLink:"/tanner-chock", 
+				agentFullName:"Tanner Chock"
+			},
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/Mike_Gray_(3).png", 
+				agentLink:"/robert-grabeklis", 
+				agentFullName:"Robert Grabeklis"
+			},
+
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/Mike_Gray.png", 
+				agentLink:"/wendy-pierce", 
+				agentFullName:"Wendy Pierce"
+			},
+
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/Diane_Priester.png", 
+				agentLink:"/diane-priester", 
+				agentFullName:"Diane Priester"
+			},
+
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/Fabiola.png", 
+				agentLink:"/fabiola-wormsbecker", 
+				agentFullName:"Fabiola Wormsbecker"
+			},
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/angela.png", 
+				agentLink:"/angela-rosamilia", 
+				agentFullName:"Angela Rosamilia"
+			},
+
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/marsha.png", 
+				agentLink:"/marsha-hughes", 
+				agentFullName:"Marsha Hughes"
+			},
+
+
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/ron.png", 
+				agentLink:"/ron-cupertino", 
+				agentFullName:"Ron Cupertino"
+			},
+
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/ken.png", 
+				agentLink:"/kendall-edge", 
+				agentFullName:"Kendall Edge"
+			},
+
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/fe.png", 
+				agentLink:"/felicia-fratto", 
+				agentFullName:"Felicia Fratto"
+			},
+
+
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/T.png", 
+				agentLink:"/theresa-germano", 
+				agentFullName:"Theresa Germano"
+			},
+
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/trac.png", 
+				agentLink:"/tracey-palmer", 
+				agentFullName:"Tracey Palmer"
+			},
+
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/chaq.png", 
+				agentLink:"/chaqueria-vereen", 
+				agentFullName:"Chaqueria Vereen"
+			},
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/lauryssa.jpg", 
+				agentLink:"/lauryssa-caranfa", 
+				agentFullName:"Lauryssa Caranfa "
+			},
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/kristen_laga.jpg", 
+				agentLink:"/kristen-laga", 
+				agentFullName:"Kristen Laga "
+			},
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/julian_Wilhelm_new.jpg", 
+				agentLink:"/julian-wilhelm", 
+				agentFullName:"Julian Wilhelm "
+			},
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/Jett_Paradis.jpg", 
+				agentLink:"/jett-paradis", 
+				agentFullName:"Jett Paradis "
+			},
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/Donna_Chandler.png", 
+				agentLink:"/donna-chandler", 
+				agentFullName:"Donna Chandler "
+			},
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/Monico_lo.png", 
+				agentLink:"/monica-lo", 
+				agentFullName:"Monica Lo "
+			},
+{ 
+
+imgLink:"https://u.realgeeks.media/century21broadhurst/headshotttt.png", 
+				agentLink:"/gerald-jerry-aherne", 
+				agentFullName:"Gerald Jerry Aherne "
+			},
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/Lindsey_Hannan.png", 
+				agentLink:"/lindsey-hannan", 
+				agentFullName:"Lindsey Hannan "
+			},
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/Charlie_D_2.png", 
+				agentLink:"/charlie-dematteo-jr ", 
+				agentFullName:"Charlie DeMatteo Jr "
+			},
+
+{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/dcf78bb0-4650-4a9d-8a43-c9fe1c57950f.jpg", 
+				agentLink:"/robin-mumpower ", 
+				agentFullName:"Robin Mumpower "
+			},
+
+
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/6.png", 
+				agentLink:"/jacinda-wright", 
+				agentFullName:"Jacinda Wright"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/5.png", 
+				agentLink:"/liat-edri/", 
+				agentFullName:"Liat Edri"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/3.png", 
+				agentLink:"/dottie-argoe/", 
+				agentFullName:"Dottie Argoe"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/4.png", 
+				agentLink:"/staci-broadhurst/", 
+				agentFullName:"Staci Broadhurst"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/17.png", 
+				agentLink:"/gregg-smith/", 
+				agentFullName:"Gregg Smith"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/Reed.png", 
+				agentLink:"/reed-brown/", 
+				agentFullName:"Reed Brown"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/22.png", 
+				agentLink:"/mickie-wang/", 
+				agentFullName:"Mickie Wang"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/29.png", 
+				agentLink:"/elizabeth-wall-braunert/", 
+				agentFullName:"Elizabeth Wall-Brauner"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/manda.png", 
+				agentLink:"/amanda-unerli/", 
+				agentFullName:"Amanda Unerli"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/26.png", 
+				agentLink:"/mark-madonna/", 
+				agentFullName:"Mark Madonna"
+			},
+			
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/20.png", 
+				agentLink:"/tyler-cunningham/", 
+				agentFullName:"Tyler Cunningham"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/2.png", 
+				agentLink:"/christine-house/", 
+				agentFullName:"Christine House"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/kim'.png", 
+				agentLink:"/kimberly-lewis/", 
+				agentFullName:"Kimberly Lewis"
+			},
+			
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/25.png", 
+				agentLink:"/marinela-demolli/", 
+				agentFullName:"Marinela Demolli"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/10.png", 
+				agentLink:"/paul-hall/", 
+				agentFullName:"Paul Hall"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/38.png", 
+				agentLink:"/jerry-motley/", 
+				agentFullName:"Jerry Motley"
+			},
+			
+			
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/11.png", 
+				agentLink:"/jamie-broadhurst/", 
+				agentFullName:"Jamie Broadhurst"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/18.png", 
+				agentLink:"/mike-alley/", 
+				agentFullName:"Mike Alley"
+			},
+					
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/15.png", 
+				agentLink:"/tj-mark/", 
+				agentFullName:"TJ Mark"
+			},
+			
+			{ 
+				imgLink:"https://t.realgeeks.media/resize/460x/https://u.realgeeks.media/century21broadhurst%252Fadam.png", 
+				agentLink:"/adam-hayes/", 
+				agentFullName:"Adam Hayes"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/24.png", 
+				agentLink:"/mark-purcell/", 
+				agentFullName:"Mark Purcell"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/h.png", 
+				agentLink:"/heather-burwell/", 
+				agentFullName:"Heather Burwell"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/sh.png", 
+				agentLink:"/sylvia-hickman/", 
+				agentFullName:"Sylvia Hickman"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/19.png", 
+				agentLink:"/yanna-milioto/", 
+				agentFullName:"Yanna Milioto"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/42.png", 
+				agentLink:"/bert-kavanaugh/", 
+				agentFullName:"Bert Kavanaugh"
+			},
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/2020_c21_photos/13.png", 
+				agentLink:"/trevor-zito/", 
+				agentFullName:"Trevor Zito"
+			},
+			
+				
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/klas_team.png", 
+				agentLink:"/klas-team/", 
+				agentFullName:"KLAS team"
+			},
+		
+			{ 
+				imgLink:"https://u.realgeeks.media/century21broadhurst/mg.png", 
+				agentLink:"/mike-gray/", 
+				agentFullName:"Mike Gray"
+			}
+		];
+		for(var i = 0, length1 = agents.length; i < length1; i++){
+			var temp = 0,
+				randomNumber = Math.floor(Math.random()*length1);
+			if(randomNumber <= i){
+				randomNumber = Math.floor(Math.random()*length1);
+			}
+			temp = agents[i];
+			agents[i] = agents[randomNumber];
+			agents[randomNumber] = temp;
+		}
+		var agentsList = document.createElement('ul');
+		agentsList.classList.add("realtor-list", "small-block-grid-2", "medium-block-grid-3");
+		for(var i = 0, length1 = agents.length; i < length1; i++){
+			var e = '<li class="agent"><a href="'+ agents[i].agentLink +'"><img src="'+ agents[i].imgLink +'" alt="" /></a> <a href="'+ agents[i].agentLink +'"> <span>'+ agents[i].agentFullName +'</span> </a></li>';
+			agentsList.innerHTML += e;
+		}
+		document.getElementsByClassName("agents-realtors-wr")[0].appendChild(agentsList);
+	})();
+</script>
+</p>
