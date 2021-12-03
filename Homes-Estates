@@ -1,0 +1,227 @@
+<p>&nbsp;</p>
+<style>
+		.layout-panel-bg-image-container {
+			width: 100%;
+			z-index: -1;
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			bottom: 0;
+			right: 0;
+			height: 100%;
+			width: 100%;
+		}
+.body-content {
+max-width: unset!important;
+}
+.body-content.blank-page .body-container {
+padding: 0.9375rem 0 !important;
+}
+		.layout-panel-bg-image {
+			position: absolute;
+			top: 0;
+			left: 0;
+			bottom: 0;
+			right: 0;
+			height: 100%;
+			width: 100%;
+			background-color: gray;
+			background-position: center center;
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+		.panel {
+			position: relative;
+			overflow: hidden;
+		}
+		.panel.panel-carousel {
+			padding-top: 5em;
+		}
+		.panel.panel-carousel .container-fluid-dynamic {
+			position: relative;
+			z-index: -1;
+		}
+		.panel.panel-carousel h2.gold {
+			font-size: 36px;
+		}
+		.panel .lifestyle_link:hover {
+			text-decoration: none;
+			border: none;
+		}
+		.panel.panel-image {
+			min-height: 600px;
+			padding: 5em 0 2em;
+			margin-bottom: 10px;			
+			box-sizing: border-box;
+		}
+		@media screen and (max-width: 480px) {
+			.layout-panel-bg-image-container.layout-panel-bg-image {
+				background-position: left center;
+			}
+		}
+		@media (max-width: 991.98px) {
+			.panel.panel-image {
+				min-height: 350px;
+			}
+		}
+		.panel h2.h1 {
+			color: #fff;
+			margin-bottom: 0;
+			text-shadow: 0 0 5px rgba(0, 0, 0, .35);
+			font-weight: 400;
+			font-size: 46px;
+			float: left;
+		}
+		.panel span.clearfix {
+			clear: both;
+		}
+		.panel a.lifestyle_link {
+			display: inline-block;
+		}
+		.panel a.lifestyle_link:hover {
+			text-decoration: underline;
+		}
+		.panel .focus-panel-info {
+			font-size: 19px;
+			color: #fff;
+			font-family: inherit;
+			display: inline-block;
+			background: rgba(4, 4, 4, .45);
+			font-weight: 100;
+			padding: .375rem .75rem;
+			margin-top: 10px;			
+			-webkit-box-sizing: border-box;
+			        box-sizing: border-box;
+		}
+		@media (max-width: 767.98px) {
+			.panel .focus-panel-info {
+				font-size: 16px;
+			}
+		}
+		.panel .btn-search {
+			font-size: 18px;
+			margin-top: -5px;
+		}
+		@media (max-width: 767.98px) {
+			.panel .btn-search {
+				font-size: 14px;
+			}
+		}
+		.panel .layout-panel-bg-image {
+			width: 110%;
+		}
+		.panel .layout-panel-bg-image-container {
+			-webkit-transform: translate3d(-10%, 0, 0);
+			transform: translate3d(-10%, 0, 0);
+		}
+		.container-fluid-dynamic {
+			margin-right: auto;
+			margin-left: auto;
+			padding-left: 30px;
+			padding-right: 30px;				
+			-webkit-box-sizing: border-box;
+			        box-sizing: border-box;
+		}
+		.container-fluid-dynamic:after, .container-fluid-dynamic:before {
+			content: " ";
+			display: table;
+		}
+		@media (max-width: 991.98px) {
+			.panel.panel-image {
+				min-height: 350px;
+			}
+
+		}
+
+		.animated {
+			-webkit-animation-duration: 1s;
+			animation-duration: 1s;
+			-webkit-animation-fill-mode: both;
+			animation-fill-mode: both;
+		}
+		.animated.slow {
+			-webkit-animation-duration: 2s;
+			animation-duration: 2s;
+		}
+		.animated.slower {
+			-webkit-animation-duration: 3s;
+			animation-duration: 3s;
+		}
+		@media (prefers-reduced-motion) {
+			.animated {
+				-webkit-animation: unset !important;
+				animation: unset !important;
+				-webkit-transition: none !important;
+				transition: none !important;
+			}
+		}
+		@keyframes slideInLeft {
+			from {
+				-webkit-transform: translate3d(-10%, 0, 0);
+				transform: translate3d(-10%, 0, 0);
+				visibility: visible;
+			}
+			to {
+				-webkit-transform: translate3d(0, 0, 0);
+				transform: translate3d(0, 0, 0);
+			}
+		}
+		@-webkit-keyframes slideInLeft {
+			from {
+				-webkit-transform: translate3d(-10%, 0, 0);
+				transform: translate3d(-10%, 0, 0);
+				visibility: visible;
+			}
+			to {
+				-webkit-transform: translate3d(0, 0, 0);
+				transform: translate3d(0, 0, 0);
+			}
+		}
+		.slideInLeft {
+			-webkit-animation-name: slideInLeft;
+			animation-name: slideInLeft;
+		}
+</style>
+<div class="panel panel-image ">
+<div class="layout-panel-bg-image-container">
+<div class="layout-panel-bg-image" style="background-image: url('https://u.realgeeks.media/century21broadhurst/golf_2.jpg');"></div>
+</div>
+<div class="container-fluid-dynamic">
+<h2 class="h1">GOLF</h2>
+<span class="clearfix"></span> <a class="lifestyle_link focus-panel-info" href="/golf-paradise"> Find your golf paradise </a></div>
+</div>
+<div class="panel panel-image ">
+<div class="layout-panel-bg-image-container">
+<div class="layout-panel-bg-image" style="background-image: url('https://u.realgeeks.media/century21broadhurst/waterfront_1.jpg');"></div>
+</div>
+<div class="container-fluid-dynamic">
+<h2 class="h1">WATERFRONT</h2>
+<span class="clearfix"></span> <a class="lifestyle_link focus-panel-info" href="/waterfront-bliss"> Discover your beachfront bliss </a></div>
+</div>
+<div class="panel panel-image ">
+<div class="layout-panel-bg-image-container">
+<div class="layout-panel-bg-image" style="background-image: url('https://u.realgeeks.media/century21broadhurst/country_1.jpg');"></div>
+</div>
+<div class="container-fluid-dynamic">
+<h2 class="h1">COUNTRY</h2>
+<span class="clearfix"></span> <a class="lifestyle_link focus-panel-info" href="/country"> Explore your country estate </a></div>
+</div>
+<p>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    $(window).scroll(function() {
+        var scrollTop = $(window).scrollTop();
+        var classesAdd = 'animated slow slideInLeft slower';
+        $('.panel.panel-image').each(function() {
+            var elm = $(this);
+            var elmPos = elm.offset().top - (elm.height() * 0.5);
+            if(scrollTop >= elmPos && !elm.hasClass('animateTrue')) {
+                $('.layout-panel-bg-image-container', elm).addClass(classesAdd);
+                elm.addClass('animateTrue')
+            }
+        });
+    });
+</script>
+</p>
+<p><iframe allowfullscreen="" allow="fullscreen" style="border: none; width: 100%; height: 550px;" src="//e.issuu.com/embed.html?backgroundColorFullscreen=%23ecdfd4&amp;d=c21_june_2020&amp;hideIssuuLogo=true&amp;logoImageUrl=https%3A%2F%2Fu.realgeeks.media%2Fcentury21broadhurst%2Flogo-gold-full.png&amp;showOtherPublicationsAsSuggestions=true&amp;u=centry21"></iframe></p>
