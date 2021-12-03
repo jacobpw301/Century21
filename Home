@@ -1,0 +1,354 @@
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+<style>
+.center { display: block; margin-left: auto; margin-right: auto; width: 50%; }</style>
+<style>
+.body-content .body-container ul {margin: 10px 0 ;}
+    .who-we-are {
+        padding: 40px 0;
+        background: #e8e8e8;
+    }
+    .who-we-are__slider-wrapper {
+        height: 0;
+        padding-bottom: 28%;
+        overflow: hidden;
+        width:  50%;
+        margin:  0 auto;
+        position: relative;
+    }
+    .who-we-are__slider {
+        position: absolute!important;;
+            top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          border-width: 0;
+          outline-width: 0;
+    }
+    .who-we-are__slider .slick-prev {
+        left: 15px;
+        z-index: 1;
+    }
+    .who-we-are__slider .slick-next {
+        right: 15px;
+        z-index: 1;
+    }
+    .who-we-are-img-wr {
+        width: 100%;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+    .who-we-are-img-wr img {
+        max-width: 100%;
+        margin: 0 auto;
+        width: 100%;
+        height: 100%;        
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    @media screen and (max-width: 991px) {
+        .who-we-are__slider-wrapper {
+            width: 95%;
+            padding-bottom: 28%;
+        }
+    }
+
+</style>
+<h2></h2>
+<section class="who-we-are">
+<div class="who-we-are__slider-wrapper">
+<div class="who-we-are__slider">
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow0.jpeg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow21.jpg" alt="" width="20" height="20" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow3.jpg" alt="" width="505" height="505" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow2.jpg" alt="" width="425" height="359" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow4.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow5.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow6.jpeg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow7.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow8.jpeg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow30.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow28.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow26.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow32.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slidewho1.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow16.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow17.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow18.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow41.JPG" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow9.JPG" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow35.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow20.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow24.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow25.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow14.JPG" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow11.JPG" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow15.JPG" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow31.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow12.JPG" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow33.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow34.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow23.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow37.JPG" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow38.JPG" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow36.jpg" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow42.JPG" alt="" /></div>
+<div class="who-we-are-img-wr"><img src="https://u.realgeeks.media/century21broadhurst/slideshow40.JPG" alt="" /></div>
+</div>
+</div>
+<img class="center" src="https://u.realgeeks.media/century21broadhurst/transparetn_text_2.png" alt="" /></section>
+<section class="customSection">
+<div class="customIntro-content">
+<h2 style="box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 28px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Ubuntu, Arial, sans-serif; -webkit-font-smoothing: antialiased; color: #666666; margin: 20px 0px 0px; padding: 0px; text-rendering: optimizelegibility; text-size-adjust: 100%; border-bottom: 1px solid #e0e0e0; text-align: center;">&nbsp; &nbsp;Find Us On Social Media</h2>
+<p style="box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 400; font-stretch: normal; font-size: 14px; line-height: 24px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Ubuntu, Arial, sans-serif; -webkit-font-smoothing: antialiased; color: #666666; margin: 10px 0px 0px; padding: 0px; text-rendering: optimizelegibility; text-size-adjust: 100%; overflow-wrap: break-word; text-align: center;"><a style="box-sizing: border-box; font-family: inherit; -webkit-font-smoothing: antialiased; line-height: inherit; color: #002349; text-decoration-line: none; text-size-adjust: 100%;" href="https://www.facebook.com/Century21Broadhurst/" target="_blank" rel="noopener noreferrer"><img src="https://u.realgeeks.media/century21broadhurst/download.png" alt="" width="50" height="50" /></a>&nbsp;<a href="https://twitter.com/c21broadhurst?lang=en" target="_blank" rel="noopener"><img src="https://u.realgeeks.media/century21broadhurst/download_(2).png" alt="" width="50" height="50" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/explore/locations/366519365/century-21-broadhurst" target="_blank" rel="noopener"><img src="https://u.realgeeks.media/century21broadhurst/download.jpg" alt="" width="50" height="50" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/company/century-21-broadhurst-&amp;-assoc-" target="_blank" rel="noopener"><img src="https://u.realgeeks.media/century21broadhurst/linkdin.png" alt="" width="50" height="50" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UClff-k1xkIzs2ELTc4N9-Xw" target="_blank" rel="noopener"><img src="https://u.realgeeks.media/century21broadhurst/download_(1).png" alt="" width="50" height="50" /></a></p>
+<p style="box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 400; font-stretch: normal; font-size: 14px; line-height: 24px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Ubuntu, Arial, sans-serif; -webkit-font-smoothing: antialiased; color: #666666; margin: 10px 0px 0px; padding: 0px; text-rendering: optimizelegibility; text-size-adjust: 100%; overflow-wrap: break-word; text-align: center;">&nbsp;</p>
+<h1 style="text-align: center;">Your Myrtle Beach Real Estate Source</h1>
+</div>
+</section>
+<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4 text-center quick-links">
+<li>
+<div class="quick-link"><img src="https://u.realgeeks.media/century21broadhurst/tile-buy.png" alt="" width="150" height="150" />
+<div class="description">
+<h3>Buying A Home?</h3>
+<p>Our team of buyer's agents will guide you through every step of the process in buying a new home from searching to closing.</p>
+<p><a class="button radius large info" href="/buying/">Learn More</a></p>
+</div>
+</div>
+</li>
+<li>
+<div class="quick-link"><img src="https://u.realgeeks.media/century21broadhurst/tile-sell.png" alt="" width="150" height="150" />
+<div class="description">
+<h3>Ready To Sell?</h3>
+<p>When it comes to selling your home, you need an experienced listing agent with an array of tools to market &amp; sell your home.</p>
+<p><a class="button radius large info" href="/cma/property-valuation/">Learn More</a></p>
+</div>
+</div>
+</li>
+<li>
+<div class="quick-link"><img src="https://u.realgeeks.media/century21broadhurst/tile-relocation.png" alt="" width="150" height="150" />
+<div class="description">
+<h3>Relocating?</h3>
+<p>Our team of agents are relocation specialists who can help you find the right home and handle all the details remotely if needed.</p>
+<p><a class="button radius large info" href="/relocating-myrtle-beach/">Learn More</a></p>
+</div>
+</div>
+</li>
+<li>
+<div class="quick-link"><img src="https://u.realgeeks.media/century21broadhurst/tile-agent.png" alt="" width="150" height="150" />
+<div class="description">
+<h3>Need An Agent?</h3>
+<p>Our agents are ready to assist you with any real estate needs! Contact us to learn more about local Myrtle Beach Real Estate.</p>
+<p><a class="button radius large info" href="/agents/">Learn More</a></p>
+</div>
+</div>
+</li>
+</ul>
+<section class="customSection" style="padding-top: 65px;">
+<div class="customCommunities-content">
+<h2 style="text-align: center;">Explore Neighborhoods of the Grand Strand</h2>
+<p style="text-align: center;">Click on any area below to find how more information, including history, demographic information, fun places to go, walkscores, popular subdivisions, and properties for sale.</p>
+<ul class="small-block-grid-1 medium-block-grid-4 large-block-grid-3 text-center">
+<li>
+<div class="community-container"><img src="https://u.realgeeks.media/century21broadhurst/tile-myrtle-beach.jpg" alt="" width="400" height="300" />
+<div class="community-description">
+<h3>Myrtle Beach</h3>
+</div>
+<div class="community-overlay"></div>
+<div class="community-link-overlay"><a href="/myrtle-beach/">&nbsp;</a></div>
+</div>
+</li>
+<li>
+<div class="community-container"><img src="https://u.realgeeks.media/century21broadhurst/Cf-400x300.jpg" alt="" width="400" height="300" />
+<div class="community-description">
+<h3>Carolina Forest</h3>
+</div>
+<div class="community-overlay"></div>
+<div class="community-link-overlay"><a href="/carolina-forest/">&nbsp;</a></div>
+</div>
+</li>
+<li>
+<div class="community-container"><img src="https://u.realgeeks.media/century21broadhurst/tile-market-common.jpg" alt="" width="400" height="300" />
+<div class="community-description">
+<h3>The Market Common</h3>
+</div>
+<div class="community-overlay"></div>
+<div class="community-link-overlay"><a href="/market-common/">&nbsp;</a></div>
+</div>
+</li>
+<li>
+<div class="community-container"><img src="https://u.realgeeks.media/century21broadhurst/tile-surfside-beach.jpg" alt="" width="400" height="300" />
+<div class="community-description">
+<h3>Surfside Beach</h3>
+</div>
+<div class="community-overlay"></div>
+<div class="community-link-overlay"><a href="/surfside-beach/">&nbsp;</a></div>
+</div>
+</li>
+<li>
+<div class="community-container"><img src="https://u.realgeeks.media/century21broadhurst/CherryGrovePier(400x300).jpg" alt="" width="400" height="300" />
+<div class="community-description">
+<h3>North Myrtle Beach</h3>
+</div>
+<div class="community-overlay"></div>
+<div class="community-link-overlay"><a href="/north-myrtle-beach/">&nbsp;</a></div>
+</div>
+</li>
+<li>
+<div class="community-container"><img src="https://u.realgeeks.media/century21broadhurst/tile-conway.jpg" alt="" width="400" height="300" />
+<div class="community-description">
+<h3>Conway</h3>
+</div>
+<div class="community-overlay"></div>
+<div class="community-link-overlay"><a href="/conway/">&nbsp;</a></div>
+</div>
+</li>
+<li>
+<div class="community-container"><img src="https://u.realgeeks.media/century21broadhurst/SocasteeBridge_(400x300).jpg" alt="" width="400" height="300" />
+<div class="community-description">
+<h3>Socastee</h3>
+</div>
+<div class="community-overlay"></div>
+<div class="community-link-overlay"><a href="/socastee/">&nbsp;</a></div>
+</div>
+</li>
+<li>
+<div class="community-container"><img src="https://u.realgeeks.media/century21broadhurst/tile-garden-city.jpg" alt="" width="400" height="300" />
+<div class="community-description">
+<h3>Garden City</h3>
+</div>
+<div class="community-overlay"></div>
+<div class="community-link-overlay"><a href="/garden-city/">&nbsp;</a></div>
+</div>
+</li>
+<li>
+<div class="community-container"><img src="https://u.realgeeks.media/century21broadhurst/inlet.JPG" alt="" width="400" height="300" />
+<div class="community-description">
+<h3>Murrells Inlet&nbsp;</h3>
+</div>
+<div class="community-overlay"></div>
+<div class="community-link-overlay"><a href="/murrells-inlet/">&nbsp;</a></div>
+</div>
+</li>
+<li>
+<div class="community-container"><img src="https://u.realgeeks.media/century21broadhurst/tile-georgetown.jpg" alt="" width="400" height="300" />
+<div class="community-description">
+<h3>Georgetown</h3>
+</div>
+<div class="community-overlay"></div>
+<div class="community-link-overlay"><a href="/georgetown/">&nbsp;</a></div>
+</div>
+</li>
+<li>
+<div class="community-container"><img src="https://u.realgeeks.media/century21broadhurst/tile-little-river.jpg" alt="" width="400" height="300" />
+<div class="community-description">
+<h3>Little River</h3>
+</div>
+<div class="community-overlay"></div>
+<div class="community-link-overlay"><a href="/little-river/">&nbsp;</a></div>
+</div>
+</li>
+<li>
+<div class="community-container"><img src="https://u.realgeeks.media/century21broadhurst/tile-pawleys-island.jpg" alt="" width="400" height="300" />
+<div class="community-description">
+<h3>Pawleys Island</h3>
+</div>
+<div class="community-overlay"></div>
+<div class="community-link-overlay"><a href="/pawleys-island/">&nbsp;</a></div>
+</div>
+</li>
+<li>
+<div class="community-container"><img src="https://u.realgeeks.media/century21broadhurst/tile-briarcliff-acres.jpg" alt="" width="400" height="300" />
+<div class="community-description">
+<h3>Briarcliffe Acres</h3>
+</div>
+<div class="community-overlay"></div>
+<div class="community-link-overlay"><a href="/briarcliffe-acres/">&nbsp;</a></div>
+</div>
+</li>
+<li>
+<div class="community-container"><img src="https://u.realgeeks.media/century21broadhurst/tile-litchfield-beach.jpg" alt="" width="400" height="300" />
+<div class="community-description">
+<h3>Litchfield Beach</h3>
+</div>
+<div class="community-overlay"></div>
+<div class="community-link-overlay"><a href="/litchfield-beach/">&nbsp;</a></div>
+</div>
+</li>
+<li>
+<div class="community-container"><img src="https://u.realgeeks.media/century21broadhurst/tile-loris.jpg" alt="" width="400" height="300" />
+<div class="community-description">
+<h3>Loris &amp; Longs</h3>
+</div>
+<div class="community-overlay"></div>
+<div class="community-link-overlay"><a href="/loris-longs/">&nbsp;</a></div>
+</div>
+</li>
+</ul>
+</div>
+</section>
+<section class="customSection">
+<div class="customIntro-content">
+<h1 style="text-align: center;">Interactive Map Search</h1>
+<hr />
+<p style="max-width: 100%;"><a title="Interactive Map Search" href="/map_search/results/14/1/#/?city=Aynor&amp;city=Cherry%20Grove&amp;city=Conway&amp;city=Garden%20City&amp;city=Garden%20City%20Beach&amp;city=Georgetown&amp;city=Little%20River&amp;city=Longs&amp;city=Loris&amp;city=Murrells%20Inlet&amp;city=Myrtle%20Beach&amp;city=North%20Myrtle%20Beach&amp;city=Pawleys%20Island&amp;city=Surfside%20Beach&amp;type=res&amp;page=1&amp;per_page=20" rel="noreferrer"><img src="https://u.realgeeks.media/century21broadhurst/map-home3.png" alt="Myrtle Beach Interactive Map Search" width="1600" height="533" /></a></p>
+</div>
+</section>
+<section class="customSection customTestimonials">
+<div class="customTestimonials-content">
+<div class="slick-responsive-slider">
+<div class="tile">
+<p><img src="https://u.realgeeks.media/century21broadhurst/stars-grey.png" alt="" width="150" height="30" style="margin: auto;" /></p>
+<p>Jamie and his company came highly recommended when I first moved to Myrtle Beach. He was very attentive to my needs and was always around when I needed to get in contact with him. The only thing better then Jamie was his great staff and other agents. When I signed with Broadhurst I just didn't get 1 agent working for me I got 50.<cite>- Tom W.</cite></p>
+</div>
+<div class="tile">
+<p><img src="https://u.realgeeks.media/century21broadhurst/stars-grey.png" alt="" width="150" height="30" style="margin: auto;" /></p>
+<p>This company knows Myrtle Beach real estate! Very professional! Highly recommend that you list your home with Century 21 Broadhurst!<cite>- Jacquie Gonzalez</cite></p>
+</div>
+<div class="tile">
+<p><img src="https://u.realgeeks.media/century21broadhurst/stars-grey.png" alt="" width="150" height="30" style="margin: auto;" /></p>
+<p>Jamie and his associates are knowledgeable, friendly and definitely service oriented....I've had the pleasure of working with Jamie the last 8 years and prior to that with his Mother. Overall I've worked with the family for 23 years.<cite>- debbieg417</cite></p>
+</div>
+</div>
+</div>
+</section>
+<section class="customSection customValuation">
+<div class="customValuation-content">
+<div class="customValuationWidget">
+<div class="mortgage_calculator side_captions" style="padding: 14px 13px 11px 13px; margin: 0px 0px 0px 0px;">
+<h3 style="padding: 0px 0px 10px 0px; margin: 0px 0px 0px 0px; border: 0px;">Mortgage Calculator</h3>
+<form action="#">
+<dl>
+<dt>Amount of Loan</dt>
+<dd><input class="full" name="loan_amount" type="text" value="500000" data-com="" /></dd>
+<dt>Annual Interest Rate</dt>
+<dd><input name="annual_interest_rate" type="text" value="4.25" data-com="" /> %</dd>
+<dt>Term of Loan</dt>
+<dd><input name="term_of_loan" type="text" value="30" data-com="" /> Years</dd>
+<dt><!-- NOTHING HERE --></dt>
+<dd>
+<div><a class="button radius large info button_calculate" href="#"><span>Calculate</span></a></div>
+</dd>
+</dl>
+<div class="spacer"><!-- NOTHING HERE--></div>
+<div class="monthly_loan_payment" style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"></div>
+<div class="disclaimer" style="padding: 0px 0px 0px 0px; margin: 3px 14px 0px 0px;">
+<p>Does not include any taxes or fees.<br />Please consult a financial professional.</p>
+<p>&nbsp; &nbsp;&nbsp;</p>
+</div>
+</form></div>
+</div>
+<div class="customValuationText" style="background: #f0f0f0; box-shadow: 0 0 0 1px #c5c5c5; border-radius: 4px; padding: 10px 20px; text-align: center;">
+<h2 style="text-align: center;">Market Reports</h2>
+<hr />
+<p style="text-align: center;">Stay up to date on your local Real Estate Market!</p>
+<p><a class="button radius large info" href="/search/market_report_search/">Create Your Own Market Report</a></p>
+</div>
+</div>
+</section>
+<div class="below-listings"></div>
